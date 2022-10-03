@@ -1,9 +1,7 @@
-# Age-Identify-Project
- Development on course of Curso em Video
 <h1 align="center">Age Identify Project</h1>
 <h2>Project Summary</h2>
-<p>This is a javascript web fundamentals study project</p>
-<p>You will have to fill in the data of the form and you will receive the result of the test.</p> 
+<p>This is a javascript web fundamentals study project, development on course of Curso em Video.</p>
+<p>You will have to fill in the form your date of birth and your sex that will return your age.</p> 
 <h2>:heavy_check_mark:  Techniques and technologies used</h2>
 <ul>
  <li>HTML;</li>
